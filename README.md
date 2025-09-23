@@ -1,1 +1,1 @@
-# php-training
+# vagrant-training
