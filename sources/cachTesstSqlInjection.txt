@@ -1,0 +1,2 @@
+http://192.168.33.10:8080/form_user.php?id=1%20OR%201=1
+dán vào gg ,nếu toàn bộ name của users đổi thành admin -> lỗi
